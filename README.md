@@ -1,5 +1,5 @@
-# The Wizard
-A wave-based survival game featuring waves of gremlins and a courageous wizard (you) who'll stop at nothing to survive!
+# The Tower Defence Game 
+A wave-based survival game featuring waves of gremlins and a fighting wizard!
 
 <p align="center">
     <img src="https://github.com/bbat2575/TheWizard/blob/main/TheWizard.png"/>
@@ -11,7 +11,7 @@ A wave-based survival game featuring waves of gremlins and a courageous wizard (
 gradle clean build run
 ```
 
-## List of actions
+## Available actions
 
 * 2x speed - Speed the game up
 
